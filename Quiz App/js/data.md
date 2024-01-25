@@ -1,0 +1,42 @@
+const quizData = [
+{
+question:A molecular technique in which DNA sequences between two oligonucleotide primers can be amplified is known as,
+a:polymerase chain reaction,
+b:northern blotting,
+c:DNA replication,
+d:southern blotting,
+correct:a,
+},
+{
+question:Agrobacterium tumefaciens is,
+a:a fungi that is used to produce antibiotics in large amounts,
+b:a disease in humans that causes loss of weight,
+c:a bacterium that can be used to introduce DNA into plants,
+d:a disease in humans that causes loss of sight,
+correct:c,
+},
+{
+question:Which of the bacteria is considered for biological leaching?,
+a:Ferrobacillus terrooxidans,
+b:all of these,
+c:T. ferrooxidans,
+d:T. thiooxidans,
+correct:b,
+},
+{
+question:During which phase of growth of Penicillium chrysogenum maximum antibiotic production takes place,
+a:during the first phase,
+b:during the third phase,
+c:same in all the phases,
+d:during the second phase,
+correct:d,
+},
+{
+question:Biochips are made up of,
+a:semi-conducting molecules inserted into the protein frame work,
+b:conducting molecules inserted into the protein frame work,
+c:non-conducting molecules inserted into the protein frame work,
+d:any of the above,
+correct:a,
+},
+]
