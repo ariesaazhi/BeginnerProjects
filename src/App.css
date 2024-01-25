@@ -1,0 +1,48 @@
+/* App.css */
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: large;
+  color: black;
+}
+body {
+  background: #aaac4f rgb(69, 105, 158);
+  background: radial-gradient(circle, #c9b5e2 0%, rgb(138, 137, 87) 100%);
+  margin: 0;
+}
+.App-container {
+  text-align: center;
+  padding: 20px;
+}
+.book-container .custom-button {
+  background-color: #6b4c45;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+.heading {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.input-container {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #415e42;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #667767;
+}
